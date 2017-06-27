@@ -84,3 +84,15 @@
     + 合并分支内容,把当前分支与指定的分支(dev),进行合并
     + 当前分支指的是`git branch`命令输出的前面有*号的分支
 - 合并时如果有冲突，需要手动去处理，处理后还需要再提交一次.
+
+### 提交代码到github(当作git服务器来用)
+- `git push [地址] master`
+ + 示例: `git push https://github.com/huoqishi/test112.git master  master`
+ + 会把当前分支的内容上传到远程的master分支上
+
+- `git pull [地址] master`
+ + 示例: `git pull https://github.com/huoqishi/test112.git master`
+ + 会把远程分支的数据得到:(*注意本地-要初始一个仓储!*)
+
+- `git clone [地址]`
+ + 会得到远程仓储相同的数据,如果多次执行会覆盖本地内容。

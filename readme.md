@@ -22,3 +22,14 @@
 - 命令: 
     + 配置用户名:`git config --global user.name "xiaoming"`
     + 配置邮箱:  `git config --global user.email "xm@sina.com"`
+
+## 把代码存储到.git仓储中
+- 1.把代码放到仓储的门口
+    + `git add ./readme.md` 所指定的文件放到大门口
+    + `git add ./` 把所有的修改的文件添加到大门口
+- 2.把仓储门口的代码放到里面的房间中去
+    + `git commit -m "这是对这次添加的东西的说明" `
+
+## 可以一次性把我们修改的代码放到房间里(版本库)
+- `git commit --all -m "一些说明"`
+    + --all 表示是把所有修改的文件提交到版本库

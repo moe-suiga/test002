@@ -1,6 +1,8 @@
 ---
 title: HOME
-author: moesuiga <wyw1121@live.com>
+author: moesuiga
+email: wyw1121@live.com
+description: blog and life
 ---
 
 [toc]

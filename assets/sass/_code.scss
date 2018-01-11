@@ -15,6 +15,5 @@ pre {
 
 code.highlighter-rouge {
   font-style: italic;
-  color: $baseColor;
-  background-color: complement($baseColor);
+  background-color: $baseColor;
 }

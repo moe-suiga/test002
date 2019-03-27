@@ -1,7 +1,7 @@
 ---
 title: console function
 descrtion: 控制台的一些方法记录
-date: '2018/1/7'
+date: 2018-1-7 18:11:53
 ---
 
 ## 控制台console的一些方法

@@ -1,11 +1,8 @@
 ---
-title: HOME
+title: Blog
 ---
 
-## HOME PAGE
+## Indexes
 
-- blog
-  + [Sass and SCSS](./Sass-and-SCSS)
-  + [console](./console)
-  + [css选择器](./css_selectors)
-  + [test](./test/test-post)
+[console function](./javascript/console)
+[CSS选择器](./css/css_selectors)

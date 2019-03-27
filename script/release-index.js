@@ -138,7 +138,7 @@ title: Blog
 `;
   res.sort((a, b) => a.time - b.time)
     .forEach(metadata => {
-      indexContent += `[${metadata.title}](${metadata.path})\n`;
+      indexContent += `- [${metadata.title}](${metadata.path}) Post: ${new Date(metadata.time).toDateString()}\n`;
     });
 
   fs.writeFileSync(resolve(ROOT, 'index.md'), indexContent);

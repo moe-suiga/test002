@@ -1,3 +1,3 @@
 ## BLOG
 
-记录之用
+My blog in the github.

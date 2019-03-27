@@ -4,15 +4,6 @@ keywords: web, 前端, CSS, CSS选择器
 description: web, 前端, CSS, CSS选择器
 date: '2018-1-11 16:57:12'
 ---
-<script>
-  var _hmt = _hmt || [];
-  (function() {
-    var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?65cf33491657c28806b6f5f1aed79ac7";
-    var s = document.getElementsByTagName("script")[0]; 
-    s.parentNode.insertBefore(hm, s);
-  })();
-</script>
 
 ## CSS选择器
 
